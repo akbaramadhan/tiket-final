@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="list_dahlia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list_mawar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list_melati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list_suite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="page_ut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dahlia_I.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dahlia_II.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detailPesan_wisata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detailTiket.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="detail_dahliaI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_dahliaII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_mawarI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_mawarII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_mawarIIs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_melatiI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_melatiII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_melatiIII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_melatiIIs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_suite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="detail_wisata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mawar_I.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mawar_II(s).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mawar_II.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="melati_II(s).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="melati_II.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="melati_III.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="melati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form Suite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
